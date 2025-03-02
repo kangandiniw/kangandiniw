@@ -9,3 +9,4 @@ Hello! I'm Kang Andini Wulandari 👋
 - 💬 Open to discussions about Machine Learning, AI, Data Science, and Web Development
 
 Let’s connect and collaborate! 😊
+🔗 [LinkedIn](https://www.linkedin.com/in/kangandiniwulandari)
