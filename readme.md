@@ -1,4 +1,4 @@
-##INTRODUCTION
+## INTRODUCTION
 
 Hello! I'm Kang Andini Wulandari 👋
 
