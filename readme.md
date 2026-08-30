@@ -8,7 +8,7 @@ Hello! I'm Kang Andini Wulandari 👋
 - 💻 Also skilled in Front-End Development & Web Development, creating interactive and user-friendly applications
 - 💬 Open to discussions about Machine Learning, AI, Data Science, and Web Development
 
-🔗 [Portofolio](https://bit.ly/PortofolioKangAndiniWulandari)
+🔗 [Portofolio](https://bit.ly/PortfolioKangAndiniW)
 
 Let’s connect and collaborate! 😊
 🔗 [LinkedIn](https://www.linkedin.com/in/kangandiniwulandari)
